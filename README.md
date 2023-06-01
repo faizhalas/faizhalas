@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizhalas, a librarian
 - 👀 I’m interested in how data science can benefit library
 - 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on any project to emhamce library services
+- 💞️ I’m looking to collaborate on any project to enhance library services
 - 📫 How to reach me on [Linktree](https://linktr.ee/faizhalas)
