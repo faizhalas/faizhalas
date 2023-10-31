@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faizhalas, an academic librarian
 - 👀 Curious about how data science can help libraries
-- 💞️ Interested in working with you on any project that would improve library services
+- 💞️ Interested in any project that would improve library services
 - 📫 Reach me on [Linktree](https://linktr.ee/faizhalas)
